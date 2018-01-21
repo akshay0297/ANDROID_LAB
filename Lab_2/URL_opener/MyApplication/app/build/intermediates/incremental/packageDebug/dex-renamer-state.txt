@@ -1,0 +1,7 @@
+#Mon Jan 15 11:25:30 IST 2018
+base.0=D\:\\Anish\\Lab2\\URL_opener\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8165241de5949150cc140141bbd8cbdbb847b02e
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Anish\\Lab2\\URL_opener\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_01e50dffcc9104e63c56ce112b01594ac6150d36\\classes.dex
+base.1=D\:\\Anish\\Lab2\\URL_opener\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_01e50dffcc9104e63c56ce112b01594ac6150d36
+file.0=D\:\\Anish\\Lab2\\URL_opener\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8165241de5949150cc140141bbd8cbdbb847b02e\\classes.dex
