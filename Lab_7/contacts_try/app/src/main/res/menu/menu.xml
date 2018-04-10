@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/phone_sim"
+        android:title="" />
+    <item android:id="@+id/call"
+        android:title="CALL" />
+    <item android:id="@+id/det"
+        android:title="CALL"/>
+</menu>-->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <!-- Single menu item
+         Set id, icon and Title for each menu item
+    -->
+
+    <item android:id="@+id/courses"
+        android:title="Courses"
+        />
+
+    <item android:id="@+id/admission"
+        android:title="Admission" />
+
+    <item android:id="@+id/faculty"
+        android:title="Faculty"/>
+
+
+
+    <!--<item android:id="@+id/menu_share"
+        android:icon="@drawable/about"
+        android:title="" />
+
+    <item android:id="@+id/menu_delete"
+        android:icon="@drawable/about"
+        android:title="Delete" />
+
+    <item android:id="@+id/menu_preferences"
+        android:icon="@drawable/about"
+        android:title="Preferences" />-->
+</menu>

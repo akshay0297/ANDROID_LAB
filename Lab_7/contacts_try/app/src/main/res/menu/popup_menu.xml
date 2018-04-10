@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/phone_sim"
+        android:title="Saved in SIM" />
+    <item android:id="@+id/call"
+        android:title="CALL" />
+    <item android:id="@+id/det"
+        android:title="Whatsapp and Gmail details saved"/>
+
+</menu>
